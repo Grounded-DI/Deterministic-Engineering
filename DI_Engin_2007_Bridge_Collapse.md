@@ -1,5 +1,5 @@
 # 📜 DI Engineering – Bridge Failure Case  
-**By Grounded DI**
+# **By Grounded DI**
 **Title:** *Entropy Profile and Failure Chain: I-35W Mississippi River Bridge Collapse*  
 **DI-Engineering-002**
 **Date:** 2025-07-27  
