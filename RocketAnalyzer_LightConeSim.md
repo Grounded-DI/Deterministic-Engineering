@@ -1,4 +1,6 @@
-# 🚀 Rocket Analyzer – LightCone Simulation (Deterministic Physics Demo)
+_By Grounded DI – July 30, 2025_
+
+# 🚀 Rocket Analyzer – LightCone Simulation (Deterministic Physics Demo) (Patent-Pending)
 
 In traditional physics simulations, high-speed scenarios near the speed of light are modeled using approximations that rely heavily on floating-point math and iterative convergence. These methods, while effective, often drift under extreme conditions or produce probabilistic output ranges. **Deterministic Intelligence (DI)** changes the game.
 
