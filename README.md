@@ -8,15 +8,11 @@ This repo is a public archive applying deterministic intelligence to engineering
 
 🚀 DI Rocket Analyzer v10
 
-Deterministic Diagnostics for Aerospace System FailuresModule Spotlight: Command-State Logic Misalignment Detector (CSLMD)Date: 2025-07-22🗌 Purpose: Identifies command-state divergence in aerospace system loops using deterministic path mapping.🔒 Status: Diagnostic only. Logic-locked for internal testing.
-
 🔩 DI-Engineering-002 – I-35W Bridge Collapse Reconstruction
-
-Title: Entropy Profile and Failure Chain: I-35W Mississippi River Bridge CollapseDate: 2025-07-27📍 A scroll-based reconstruction of the 2007 Minneapolis bridge failure using deterministic logic, entropy modeling, and cascade triggers.⚠️ Public-safe. No blame assigned. Event occurred in a different era.
 
 📜 DI-Engineering-003 – LightCone Rocket Physics Simulation
 
-Title: Rocket Analyzer – LightCone Simulation (Deterministic Physics Demo)Date: 2025-07-30🔬 Simulates near-light-speed spaceflight using DIA 9.9 physics logic.🔒 Scroll-locked. Public readout available. Origin: /RocketAnalyzer_LightConeSim.md
+📜 DI-Engineering-004 – BatteryWise Demo
 
 🔍 Purpose
 
