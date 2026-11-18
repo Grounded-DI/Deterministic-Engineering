@@ -1,18 +1,18 @@
 # DI-Engineering
 
-A public Grounded DI archive of engineering-oriented deterministic-diagnostics concepts, recorded audit artifacts, and visual prototypes for aerospace, infrastructure, energy, and radiology scenarios.
+Grounded DI engineering records show command-state checks, gatekeeper behavior, fault-tree and thermal-loop visualizations, physics calculations, and dated aerospace and infrastructure demonstrations.
 
 **Published by Grounded DI LLC · Source artifacts identify Grounded DI / MSW · Repository history begins July 22, 2025**
 
 ## Overview
 
-This repository preserves a compact set of public demonstrations and design records. It is not an installable engineering product, flight-control system, medical device, or complete source release. The strongest evidence is contained in the dated Markdown, PDFs, and diagrams themselves.
+The dated Markdown, PDFs, and diagrams preserve the demonstrations and design decisions. Each artifact records its inputs, calculations, or visible control decisions as described in the index below.
 
 The collection covers command/state alignment, gatekeeper behavior, thermal-loop and fault-tree visualization, a relativistic physics calculation, an EV battery diagnostic prompt, and an educational reconstruction of the 2007 I-35W bridge collapse. Each artifact has its own status and limitations; the repository does not merge them into a claim of deployment or certification.
 
 ## Why It Matters
 
-Engineering review often depends on making assumptions, thresholds, state transitions, and failure paths visible. These artifacts show how Grounded DI explored that problem using named logic layers, drift or entropy terminology, gate conditions, audit records, and bounded outputs. They provide a practical starting point for evaluating a private implementation or a scoped proof of concept.
+Engineering review often depends on making assumptions, thresholds, state transitions, and failure paths visible. These artifacts show how Grounded DI explored that problem using named logic layers, drift or entropy terminology, gate conditions, audit records, and bounded outputs. They provide a starting point for technical review and a controlled evaluation of the full relevant workflow.
 
 ## Key Artifacts
 
@@ -148,6 +148,6 @@ Suggested citation:
 
 ## Status
 
-**ACTIVE PUBLIC PROTOTYPE / DOCUMENTARY ARCHIVE.** The repository is suitable for technical orientation, provenance review, and preliminary commercial scoping. It is not presented as a deployable or certified engineering system.
+**ACTIVE PUBLIC PROTOTYPE / DOCUMENTARY ARCHIVE.** The dated records support technical orientation, provenance review, and commercial evaluation. Engineering deployment requires separately validated implementation and qualified review.
 
 #DeterministicEngineering #EngineeringAI #AerospaceDiagnostics #FailureAnalysis #Auditability #Provenance #GroundedDI
